@@ -1,5 +1,6 @@
 body{
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 0%;
 }
 .link{
     text-decoration: none;
@@ -14,6 +15,105 @@ body{
 .b{
     color: darkorange;
 }
-.c{
-    font-size: 800px;
+h1{
+    font-size: 50px;
 }
+.promi{
+    display: flex;
+    background-image: url(text/top-banner.png);
+    background-repeat: no-repeat;
+
+}
+.o img{
+    width: 550px;
+    
+}
+.o{
+    width: 50%;
+    padding-left: 85px;
+}
+.w{
+    margin-left: 30px;
+    width: 600px;
+}
+.amy{
+    display: flex;
+    padding-top: 130px;
+    background-image: url(text/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.e{
+   text-decoration: none;
+   color: white;
+   border-radius: 6px; 
+   padding: 10px 30px;
+   font-size: 20px;
+   background-image: linear-gradient(red orangered);
+   background-color: darkorange;
+}
+.x{
+    padding-right: 10%;
+    width: 40%;
+}
+.j{
+    color:mediumslateblue
+}
+.q{
+    display: flex;
+}
+.z{
+    width: 35%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 40px grey;
+    border-left: 10px solid;
+   
+}
+.v{
+    font-size: 35px;
+}
+.b{
+    font-size: 20px;
+}
+.oo{
+    color: mediumslateblue;
+}
+.q{
+    background-image: url(text/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+#ee{
+    border-left: 7px solid;
+    border-image: linear-gradient(blue, cyan);
+    border-image-slice: 1;
+}
+.du{
+    margin-top: 140px;
+}
+#rr{
+    border-left: 7px solid;
+    border-image: linear-gradient(salmon, tomato);
+    border-image-slice: 1;
+}
+footer p{
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
